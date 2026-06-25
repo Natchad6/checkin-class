@@ -8,8 +8,8 @@ const anuphan = Anuphan({
 })
 
 export const metadata: Metadata = {
-  title: "Pogearmon Staff",
-  description: "Pogearmon Staff Portal",
+  title: "TA Digitalcitizens",
+  description: "TA Digitalcitizens Portal",
 }
 
 export default function RootLayout({
